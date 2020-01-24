@@ -1,3 +1,6 @@
+An Alarm Clock for arduino.
+
+
 To set clock time:
 Hold left button for 4 seconds.
 Left button controls hours and right button controls minutes.
