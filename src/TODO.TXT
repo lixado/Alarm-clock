@@ -1,0 +1,6 @@
+Stoppe sekunder +-
+Minuts av og til + 2 not really?????
+Flickering screen!!!!!!!!!!!!!
+optimize small stuffs
+
+fix alarm and prolly clock if hours < 10 and seconds < 10 mins  = 10
